@@ -2,14 +2,12 @@
 
 Sample fashion e-commerce built with HTML, CSS, Javascript.
 
-## Demo
-
-**Desktop view**
+## Desktop view
 
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![Anon Desktop Demo](./website-demo-image/desktop2.png "Desktop Demo 2nd view")
 
-**Mobile View**
+## Mobile view
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 ![Anon Mobile Demo](./website-demo-image/mobile2.png "Mobile Demo 3rd view")
 ![Anon Mobile Demo](./website-demo-image/mobile3.png "Mobile Demo 4th view")
